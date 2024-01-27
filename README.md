@@ -14,5 +14,4 @@ Data definition:
 12-logBCF: Logarithm of the bioconcentration factor (BCF), which is the ratio of a chemical's concentration in an organism to its concentration in the surrounding environment.
 13-Class: The target variable, representing the mechanism of bioconcentration. It can take one of three classes: (1) mainly stored within lipid tissues, (2) has additional storage sites (e.g., proteins), or (3) is metabolized/eliminated.
 
-
-we build this model only with Machine learning model
+We build this model only with Machine learning model
