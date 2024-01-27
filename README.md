@@ -1,0 +1,1 @@
+A dataset of manually-curated BCF for 779 chemicals was used to determine the mechanisms of bioconcentration, i.e. to predict whether a chemical: (1) is mainly stored within lipid tissues, (2) has additional storage sites (e.g. proteins), or (3) is metabolized/eliminated. 
